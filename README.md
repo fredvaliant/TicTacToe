@@ -1,1 +1,3 @@
 # TicTacToe
+
+Just a simple console app game... 
